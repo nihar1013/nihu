@@ -1,3 +1,4 @@
 over=6 balls
 if wide ball occures=7 balls over
 if no ball occurs=7 balls over
+if no/wide ball occurs=7 balls over
